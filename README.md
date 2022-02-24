@@ -50,7 +50,7 @@ python -m pip install -r requirements.txt
 Start jupyter
 
 ```
-jupyter notebook nn-bitcoin-analysis.ipynb
+jupyter notebook analise-bitcoin.ipynb
 ```
 
 Fun begins!
